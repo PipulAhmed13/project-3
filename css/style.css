@@ -1,0 +1,148 @@
+body{	width: 1200px
+		margin: 0 auto;
+		padding: 0;
+		font-family: sans-serif;
+		text-align: center;
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#236099+0,83bfe5+100 */
+		background: #236099; /* Old browsers */
+		background: -moz-linear-gradient(top,  #236099 0%, #83bfe5 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(top,  #236099 0%,#83bfe5 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom,  #236099 0%,#83bfe5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#236099', endColorstr='#83bfe5',GradientType=0 ); /* IE6-9 */; 
+		background-repeat: no-repeat; 
+		font-family: sans-serif; }
+
+* { overflow: hidden }		
+
+@font-face {
+	font-family: condensed;
+	src: url(condensed.ttf) ;
+}
+
+.textbox { color: white
+}
+
+.header { font-size: 40px;
+	padding: 20px;
+
+}
+
+.hearer-description {
+}
+
+.Login { float: left;
+	width: 500px,
+	background-color: white;
+	padding:200px;
+	
+}
+
+.left-box { background-color: white; ;
+	width: 400px;
+	margin: auto;
+	background-color:
+
+}
+
+.left-sign-in-text { text-align: left;
+	text-transform: none;
+	background-color: white;
+	margin: 20px 10px 0px  20px ;
+}
+
+.login-group input {
+	background-color: white;
+	padding: 15px;
+	border-radius: 5px;
+	display: block;
+	width: 100%;
+
+
+
+}	
+
+.submit-button input { width: 90%;
+	background-color: #6398ed;
+	padding: 20px;
+	border-radius: 5px;
+	font-size: 30px
+
+
+}
+
+.links { padding: 30px;
+
+	
+
+}
+
+.fb-button { float: left;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	text-transform: none;
+	text-decoration: none;
+
+
+}
+
+.twitter-button { float: left;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	text-transform: none;
+	text-decoration: none;
+
+
+
+}
+
+.gplus-button { float: left;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	text-transform: none;
+	text-decoration: none;
+
+
+}
+
+.Sign-Up { float: right;
+	width: 600px,
+	background-color: white;
+	padding:200px;
+
+}
+
+.right-box { background-color: white;
+	width: 500px;
+	margin: auto;
+
+
+}
+
+.right-sign-up-text { text-align: left;
+	text-transform: none;
+	background-color: white;
+	margin: 20px 10px 0px  20px ;
+}
+
+.signup-group input {
+	background-color: white;
+	padding: 15px;
+	border-radius: 5px;
+	display: block;
+	width: 100%;
+
+}
+
+.signup-button {
+	width: 90%;
+	background-color: #6398ed;
+	padding: 20px;
+	border-radius: 5px;
+	font-size: 30px;
+	display: block;
+
+
+}
